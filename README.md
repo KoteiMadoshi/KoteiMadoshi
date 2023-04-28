@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Antonio Catanzaro,
-**_a Computer Science student from "Università degli studi di Bari Aldo Moro", based in Bari, Italy._**
+**_a Computer Science student from "Università degli studi di Bari Aldo Moro", based in Bari, Italy ![Italy Flag](assets/images/italy_flag.png)._** 
 
 ## 📋 Bio
 The first evidence of my existence dates back to **_1st february of 1999_**, in a hospital in Bari. I grew up in **_Molfetta_**, a small city nearby, attending various schools until, at the age of 13, I enrolled in an **_[Technical Institute](https://www.ferrarismolfetta.edu.it/)_** thus discovering my vocation towards computer science. With many difficulties due to various adolescent troubles, I graduated with a score of 76/100 and, lost and disoriented, thrown into the hard laws of the job world, I decided to fall back on university 😄.
